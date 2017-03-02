@@ -1,0 +1,8 @@
+{
+    "name": "Screeps01",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "EkoJr",
+    "contributors": [],
+    "dependencies": {"ScreepsAutocomplete"}
+}
